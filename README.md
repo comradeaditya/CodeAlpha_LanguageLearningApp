@@ -43,15 +43,15 @@ Kept it simple with a **Screen-based architecture** suitable for the scope of th
 
 ## Screenshots
 
-### Home Screen
-The landing screen with a welcome banner and four navigation cards for Lessons, Flashcards, Quiz and Progress.
+### Home Screen + Lessons
+The landing screen with a welcome banner and four navigation cards for Lessons, Flashcards, Quiz and Progress. Browse Spanish vocabulary by category. Each category opens a word list showing Spanish words and their English translations side by side. Includes Basic Words, Food & Drinks, Colors, Numbers and Family.
 
-![Home Screen](screenshots/lessons_screen.jpeg)
+![Home Screen + Lessons](screenshots/lessons_screen.jpeg)
 
 ---
 
 ### Lessons Screen
-Browse Spanish vocabulary by category. Each category opens a word list showing Spanish words and their English translations side by side. Includes Basic Words, Food & Drinks, Colors, Numbers and Family.
+
 
 ![Lessons Screen](screenshots/lessons_screen.jpeg)
 
